@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <!-- - 🤝 I’m available for freelancing. -->
 
-- 🌱 I’m currently learning .NET Framework in C#
+- 🌱 I’m currently learning Backend and Data in python
 <!-- -  📝 I regularly write articles on [https://dev.to/100rabhcsmc](https://dev.to/100rabhcsmc) -->
 
 - 📫 How to reach me **sebastianmartinezrodio@gmail.com**
